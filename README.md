@@ -20,7 +20,7 @@ Here is a small example how to tint the EditText like in Lollipop:
     });
 
 ##License
-This code is licensed under the [Rekisoft Public License][rkspl].
+This code is licensed under the [Rekisoft Public License][rkspl].  
 See [http://www.rekisoft.eu/licenses/rkspl.html][rkspl] for more informations.
 
   [rkspl]: http://www.rekisoft.eu/licenses/rkspl.html

@@ -27,7 +27,7 @@ public abstract class TintedDrawable extends InsetDrawable {
     }
 
     @Override
-    protected final boolean onStateChange(int[] states) {
+    public final boolean onStateChange(int[] states) {
         boolean isPressed = false;
         boolean isFocused = false;
         boolean isActive = false;
